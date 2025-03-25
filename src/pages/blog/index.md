@@ -3,9 +3,9 @@ templateKey: blog-archive
 pageSlug: /blog
 pageTitle: Blog
 subheader: null
-metaDescription: A blog is a type of website or online platform where
-  individuals or groups regularly post content, typically in the form of
-  articles, diary entries, or commentary on various topics.
+metaDescription: Charles Pollack, MD, graduated magna cum laude from Emory
+  University as a Phi Beta Kappa honor society student with degrees in history
+  and chemistry.
 published: true
 schemaType: WebPage
 header: Blog
