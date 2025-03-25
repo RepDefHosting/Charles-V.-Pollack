@@ -1,7 +1,7 @@
 ---
 missionStatement: "{{mission_statement}}"
 templateKey: index-page
-pageTitle: Client's Name
+pageTitle: Charles V. Pollack, MD
 pageContent: Since joining the web-based **restaurant review** company in its
   startup phase, **Chandler Villacruz** has spearheaded *market research*
   activities that have allowed the firm to build *effective advertising*
@@ -12,12 +12,13 @@ learnMoreButton:
 subheader: Client's Subtitle
 pageSlug: /
 featuredImage:
-  src: /img/naturehero.png
-  alt: Hero Image for home page
+  src: /img/doctorhero1.png
+  alt: Charles V. Pollack, MD
   caption: null
 header: Client Name
-metaDescription: First paragraph of Clients Bio. That would meet the character
-  count range, and have the clients name in the Meta Data
+metaDescription: Based near Philadelphia, Charles V. Pollack, MD, has worked as
+  a research and clinical trial consultant with multiple pharmaceutical
+  companies since 2000.
 published: true
 profileButton:
   link: /profile
@@ -32,4 +33,4 @@ shortBiography: Since joining the web-based restaurant review company in its
 schemaType: WebPage
 showRecentPosts: false
 ---
-First paragraph of clients bio. And feel free to link clients name out to different **[blog sites](google.com)**
+Based near Philadelphia, Charles V. Pollack, MD, has worked as a research and clinical trial consultant with multiple pharmaceutical companies since 2000. In addition to medically monitoring clinical trials, his responsibilities in this role involve regulatory compliance, trial site oversight, and protocol development. Since 2019, Charles V. Pollack, MD, has balanced his role as an independent research and clinical trial consultant with his work as a clinician-scientist and adjunct faculty member with the University of Mississippi Medical Center’s and Department of Emergency Medicine. Dr. Pollack was the first physician to receive the American College of Emergency Physicians’ highest research and teaching awards.
